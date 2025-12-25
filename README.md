@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Salut, je suis BOUKARI Mohamed (@BM-CODER-TG)
+# 👋 Salut, je suis BOUKARI Mohamed (@BoCode-BM)
 
 🎯 Développeur web débutant, passionné par **l’algorithmique**, la **logique de programmation**
 et la création d’applications utiles et accessibles.
